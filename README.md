@@ -14,3 +14,4 @@ Tools/ Softwares/ Applications/ Websites used :
 (ii) Official Digilocker and UPI websites
 (iii)MS Word
 (iv)Google Sheets
+(v)Power BI
