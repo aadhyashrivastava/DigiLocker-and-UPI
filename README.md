@@ -1,5 +1,4 @@
 e-Governance and Digital Services : DigiLocker and UPI
-Status - Ongoing (Tentative Completion on November 14, 2026)
 Version - 1.0
 License - Unlicensed
 Description - This project is the part of e-Governance and Digital services data analysis virtual internship on YuvaIntern. For this, i have selected two Digital Services provided by Government of India, DigiLocker and UPI. 
