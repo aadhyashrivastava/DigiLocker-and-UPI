@@ -1,19 +1,35 @@
-# About:
-e-Governance and Digital Services : DigiLocker and UPI
-Version - 1.0
-License - Unlicensed
-Description - This project is the part of e-Governance and Digital services data analysis virtual internship on YuvaIntern. For this, i have selected two Digital Services provided by Government of India, DigiLocker and UPI. 
+# DigiLocker & UPI Data Analysis
 
-# Tasks performed:
-In this project we will do the following :
-(i) Analyze the current situation landscape of both services
-(ii) Conduct a Strengths, Weaknesses, Opportunities, Threats (SWOT) analysis.
-(iii)Pick a publicly available dataset and demonstrate data collection.
-(iv)Clean the picked dataset and conduct preliminary analysis. 
+## Project Overview
+This project focuses on analysing India's digital public infrastructure through two major digital services: **DigiLocker** and **Unified Payments Interface (UPI)**.
 
-# Softwares used:
-(i)Google
-(ii) Official Digilocker and UPI websites
-(iii)MS Word
-(iv)Google Sheets
-(v)Power BI
+The objective is to explore publicly available datasets, identify meaningful trends and patterns, and derive insights into the adoption and usage of digital services in India.
+
+## Objectives
+- Explore and understand DigiLocker and UPI datasets.
+- Perform data cleaning and preprocessing.
+- Conduct exploratory data analysis (EDA).
+- Identify trends, patterns, and key insights.
+- Present findings through meaningful visualizations.
+
+## Tools & Technologies
+- Google Sheets
+- Power BI
+- MS Word
+- www.data.gov.in
+
+## Dataset Sources
+The datasets used in this project are obtained from [Open Government Data Platform India](https://www.data.gov.in/).
+
+## Project Status
+<escape>🚧</escape> Completed
+
+## Key Learning Outcomes
+- Working with real-world government datasets.
+- Data cleaning and preprocessing.
+- Exploratory data analysis.
+- Data visualization and insight generation
+- Predictive Analysis
+
+---
+*An exploratory data analytics project focused on understanding India's digital transformation.*
